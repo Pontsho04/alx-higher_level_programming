@@ -1,5 +1,5 @@
-#!/usr/in/python3
-# 6-print_comb.py
+#!/usr/bin/python3
+# 6-print_comb3.py
 
 """Print all possible different combinations of two digits in ascending order.
 
